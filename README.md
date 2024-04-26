@@ -3,7 +3,7 @@
 - Link para Projeto no Azure DevOps.
 
 # Pasta SQL
-- Arquivo SQL Para Criação do Banco de Dados dbCurso.
+- Arquivo SQL para criação do Banco de Dados dbCurso e criação das Tabelas Alunos e Cursos.
 
 # Pasta ControlCurso
 - Projeto MVC em C#
